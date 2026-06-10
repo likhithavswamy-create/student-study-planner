@@ -1,0 +1,6 @@
+{
+  "name": "Study Planner",
+  "description": "A comprehensive study planner for students to manage schedules, timetables, assignments, exams, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
